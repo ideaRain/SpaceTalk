@@ -12,20 +12,15 @@ momentjs:moment
 fourseven:scss
 copleykj:jquery-autosize
 tmeasday:gravatar
-meteorhacks:flow-layout
-meteorhacks:flow-router
 peerlibrary:blaze-components
 mizzao:user-status
 todda00:friendly-slugs
-useraccounts:core
 arillo:flow-router-helpers
 seriousm:emoji-continued
 jquery
-kevohagan:sweetalert
 fortawesome:fontawesome
 aldeed:autoform
 
-useraccounts:unstyled
 dburles:collection-helpers
 iframely:oembed
 matb33:collection-hooks
@@ -34,3 +29,8 @@ mquandalle:jquery-textcomplete
 ogourment:settings
 tmeasday:presence
 maazalik:malihu-jquery-custom-scrollbar
+kadira:flow-router
+kadira:blaze-layout
+kevohagan:sweetalert
+useraccounts:unstyled
+useraccounts:flow-routing
